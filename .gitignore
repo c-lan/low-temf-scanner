@@ -1,0 +1,7 @@
+*bak
+sw/
+hw/scanner
+hw/fp-info-cache
+hw/scanner-old*
+hw/*.rar
+hw/scanner-cache.lib
