@@ -1,5 +1,9 @@
 *bak
-sw/
+*.o
+*.d
+*.elf
+*.map
+*.bin
 hw/scanner
 hw/fp-info-cache
 hw/scanner-old*
